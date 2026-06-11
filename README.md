@@ -62,6 +62,7 @@ This project analyzes customer churn in the banking sector to understand custome
 
 ## 📷 Dashboard Preview
 
+![DASHBOARD](DASHBOARD.png)
 
 
 
